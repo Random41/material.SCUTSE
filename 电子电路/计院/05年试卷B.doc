@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>56F394D5941E5EA00AE55DFE</RequestId>
+  <HostId>oss-cn-hangzhou-internal.aliyuncs.com</HostId>
+  <Key>a8384337be51d64674ee170f644560c6.doc</Key>
+</Error>
